@@ -15,7 +15,7 @@ I am a driven and passionate data scientist and engineer, constantly seeking new
 
 - 📫 How to reach me **v5chauha.uwaterloo@gmail.com**
 
-- 📄 Know about my experiences [Data_Scientist_Vivek_Chauhan.pdf](Data_Scientist_Vivek_Chauhan.pdf)
+- 📄 Know about my experiences [Resume-Vivek_Chauhan-Data_Scientist.pdf](Resume-Vivek_Chauhan-Data_Scientist.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
