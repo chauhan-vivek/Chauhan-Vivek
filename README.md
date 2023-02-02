@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,:man_technologist: I'm Vivek</h1>
-<h3 align="center">Data {Scientist | Engineer | Analyst}</h3>
+<h3 align="center">Data {Engineer | Scientist}</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chauhan-vivek&label=Profile%20views&color=0e75b6&style=flat" alt="chauhan-vivek" /> </p>
 
